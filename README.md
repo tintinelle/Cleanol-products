@@ -19,7 +19,9 @@ Site for the company Cleanol - Russian manufacturer of auto chemicals, auto cosm
 </p>
 
 
-## Result
+## Result!
+[Uploading cleanol.png…]()
+
 <a href="http://morozmav.ru">Click here</a>
 
 
