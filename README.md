@@ -20,17 +20,21 @@ Site for the company Cleanol - Russian manufacturer of auto chemicals, auto cosm
 
 
 ## Result!
-[Uploading cleanol.png…]()
 
 <a href="http://morozmav.ru">Click here</a>
 
+<img src="cleanol.png" alt="result" width="100%"/>
+
+
 
 ## Authors
+
+Ilvina Rakhimova<br>
+[@tintinelle](https://github.com/tintinelle) 
+
 Marina Morozova<br>
 [@moroz23moroz](https://github.com/moroz23moroz)
 
 Mariya Zeleneva<br>
 [@MZ-87](https://github.com/MZ-87)
 
-Ilvina Rakhimova<br>
-[@tintinelle](https://github.com/tintinelle) 
