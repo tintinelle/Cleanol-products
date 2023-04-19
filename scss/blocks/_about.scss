@@ -446,7 +446,11 @@
             width: 32px;
             height: 10px;
             bottom: 32px;
-            left: 190px;
+            left: 215px;
+
+            @media (min-width:1301px) and (max-width:1460px) {
+                left: 190px;
+            }
 
             @media (min-width:1201px) and (max-width:1300px) {
                 left: 295px;
@@ -454,6 +458,14 @@
 
             @media (min-width:991px) and (max-width:1200px) {
                 left: 265px;
+            }
+
+            @media (max-width: 990px) {
+                left: 190px;
+            }
+
+            @media (max-width: 390px) {
+                left: 175px;
             }
         }
     }
