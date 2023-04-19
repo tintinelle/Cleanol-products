@@ -21,7 +21,7 @@ This is a website for Cleanol company which is a Russian manufacturer of auto ch
 
 ## Result!
 
-<a href="http://morozmav.ru">Click here</a>
+<a href="https://cleanol.by">Click here</a>
 
 <img src="cleanol.png" alt="result" width="80%"/>
 
